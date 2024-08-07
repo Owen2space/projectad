@@ -1,0 +1,13 @@
+Prediction
+There are two types
+classification
+ -Your predict group/categorical variable
+  I.e - A or B Yes/No Spam/Not spam,Fraud/Not fraud
+   -Default/Not default,Bad/Good, Cake/Donut, Team a or Team B
+   TODO
+
+
+
+   Regression
+    -Its when you predict continous variable
+    -ie AGE, PRICE, MARKS,WEIGHT,SPEED,FARE,BP.TEMP,HEIGHT,PROFIT,LOSSES,
